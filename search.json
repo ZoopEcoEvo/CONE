@@ -1,0 +1,348 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Copepod Fauna of New England",
+    "section": "",
+    "text": "Preface\nFiller text",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "The Copepod Fauna of New England",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "front/how_to_use.html",
+    "href": "front/how_to_use.html",
+    "title": "How to use this book",
+    "section": "",
+    "text": "This book describes the 53 copepod species currently listed for New England, 3 of which have a full account so far.\nFinding a species. Start with the keys (Identification keys) or the checklist (Checklist of species). Species accounts are grouped by order, then by family. Groups of species that are easily confused have their own pages under Common comparisons.\nReading an account. Each account opens with a summary box: authority, classification, habitat, the original description and other key literature, and links to external resources such as WoRMS. It then gives a diagnosis, illustrated morphology, collection records (with a map), and notes. Accounts marked draft or placeholder are still being written.\nNames. Names follow the World Register of Marine Species (WoRMS). Where a name in common use is no longer accepted, the accepted name is given in the summary box.\nTerminology. Morphological terms are explained in Copepod morphology and the glossary.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>How to use this book</span>"
+    ]
+  },
+  {
+    "objectID": "front/collecting.html",
+    "href": "front/collecting.html",
+    "title": "Collecting and preserving copepods",
+    "section": "",
+    "text": "Sampling",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Collecting and preserving copepods</span>"
+    ]
+  },
+  {
+    "objectID": "front/collecting.html#sorting-and-preservation",
+    "href": "front/collecting.html#sorting-and-preservation",
+    "title": "Collecting and preserving copepods",
+    "section": "Sorting and preservation",
+    "text": "Sorting and preservation",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Collecting and preserving copepods</span>"
+    ]
+  },
+  {
+    "objectID": "front/collecting.html#dissection-and-imaging",
+    "href": "front/collecting.html#dissection-and-imaging",
+    "title": "Collecting and preserving copepods",
+    "section": "Dissection and imaging",
+    "text": "Dissection and imaging",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Collecting and preserving copepods</span>"
+    ]
+  },
+  {
+    "objectID": "front/morphology.html",
+    "href": "front/morphology.html",
+    "title": "Copepod morphology",
+    "section": "",
+    "text": "Body plan",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Copepod morphology</span>"
+    ]
+  },
+  {
+    "objectID": "front/morphology.html#appendages",
+    "href": "front/morphology.html#appendages",
+    "title": "Copepod morphology",
+    "section": "Appendages",
+    "text": "Appendages",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Copepod morphology</span>"
+    ]
+  },
+  {
+    "objectID": "front/morphology.html#the-fifth-leg-p5",
+    "href": "front/morphology.html#the-fifth-leg-p5",
+    "title": "Copepod morphology",
+    "section": "The fifth leg (P5)",
+    "text": "The fifth leg (P5)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Copepod morphology</span>"
+    ]
+  },
+  {
+    "objectID": "front/morphology.html#sexes-and-life-stages",
+    "href": "front/morphology.html#sexes-and-life-stages",
+    "title": "Copepod morphology",
+    "section": "Sexes and life stages",
+    "text": "Sexes and life stages",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Copepod morphology</span>"
+    ]
+  },
+  {
+    "objectID": "front/keys.html",
+    "href": "front/keys.html",
+    "title": "Identification keys",
+    "section": "",
+    "text": "Key to orders of free-living adult copepods",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Identification keys</span>"
+    ]
+  },
+  {
+    "objectID": "front/keys.html#key-to-orders-of-free-living-adult-copepods",
+    "href": "front/keys.html#key-to-orders-of-free-living-adult-copepods",
+    "title": "Identification keys",
+    "section": "",
+    "text": "Major body articulation behind the fifth pedigerous somite (between it and the genital somite); antennules long, usually 23–25 segments → Calanoida (see part)\nMajor body articulation between the fourth and fifth pedigerous somites → 2\nProsome clearly wider than the urosome; antennules of moderate length → Cyclopoida (see part)\nBody more or less cylindrical, prosome and urosome of similar width; antennules short → Harpacticoida",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Identification keys</span>"
+    ]
+  },
+  {
+    "objectID": "front/checklist.html",
+    "href": "front/checklist.html",
+    "title": "Checklist of species",
+    "section": "",
+    "text": "All 53 species currently listed for New England, generated from data/species.csv. Species with an account in this book are linked. “Records” is the number of collection records in data/observations.csv.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Checklist of species</span>"
+    ]
+  },
+  {
+    "objectID": "parts/calanoida.html",
+    "href": "parts/calanoida.html",
+    "title": "Calanoid copepods",
+    "section": "",
+    "text": "Species of Calanoida recorded from New England. Species with a full account are linked; the list is generated from data/species.csv.\n\n\nFreshwater\n\nLeptodiaptomus minutus (Diaptomidae) — no account yet\nSkistodiaptomus pallidus (Diaptomidae) — no account yet\nSkistodiaptomus pygmaeus (Diaptomidae) — no account yet\nEpischura massachusettsensis (Temoridae) — no account yet\nEpischura nordenskiöldi (Temoridae)\n\n\n\nMarine\n\nAcartia hudsonica (Acartiidae) — no account yet\nAcartia longiremis (Acartiidae) — no account yet\nAcartia tonsa (Acartiidae)\nCalanus finmarchicus (Calanidae) — no account yet\nCalanus hyperboreus (Calanidae) — no account yet\nCalanus minor (Calanidae) — no account yet\nCandacia armata (Candaciidae) — no account yet\nCentropages bradyi (Centropagidae) — no account yet\nCentropages hamatus (Centropagidae) — no account yet\nCentropages typicus (Centropagidae) — no account yet\nPseudocalanus moultoni (Clausocalanidae) — no account yet\nPseudocalanus newmanni (Clausocalanidae) — no account yet\nEucalanus crassus (Eucalanidae) — no account yet\nEucalanus monachus (Eucalanidae) — no account yet\nEucalanus pileatus (Eucalanidae) — no account yet\nEuchaeta norvegica (Euchaetidae) — no account yet\nMecynocera clausi (Mecynoceridae) — no account yet\nMetridia longa (Metridinidae) — no account yet\nMetridia lucens (Metridinidae) — no account yet\nParacalanus parvus (Paracalanidae) — no account yet\nParvocalanus crassirostris (Paracalanidae) — no account yet\nAnomalocera opalus (Pontellidae) — no account yet\nAnomalocera pattersoni (Pontellidae) — no account yet\nCalanopia americana (Pontellidae) — no account yet\nLabidocera aestiva (Pontellidae) — no account yet\nPontella meadi (Pontellidae) — no account yet\nPseudodiaptomus coronatus (Pseudodiaptomidae) — no account yet\nRhincalanus nasutus (Rhincalanidae) — no account yet\nEurytemora affinis (Temoridae) — no account yet\nEurytemora americana (Temoridae) — no account yet\nEurytemora herdmani (Temoridae) — no account yet\nTemora longicornis (Temoridae) — no account yet\nTemora stylifera (Temoridae) — no account yet\nTemora turbinata (Temoridae) — no account yet\nTortanus discaudatus (Tortanidae) — no account yet",
+    "crumbs": [
+      "Calanoid copepods"
+    ]
+  },
+  {
+    "objectID": "species/acartia_tonsa.html",
+    "href": "species/acartia_tonsa.html",
+    "title": "Acartia tonsa",
+    "section": "",
+    "text": "Diagnosis",
+    "crumbs": [
+      "Calanoid copepods",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>*Acartia tonsa*</span>"
+    ]
+  },
+  {
+    "objectID": "species/acartia_tonsa.html#morphology",
+    "href": "species/acartia_tonsa.html#morphology",
+    "title": "Acartia tonsa",
+    "section": "Morphology",
+    "text": "Morphology",
+    "crumbs": [
+      "Calanoid copepods",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>*Acartia tonsa*</span>"
+    ]
+  },
+  {
+    "objectID": "species/acartia_tonsa.html#records",
+    "href": "species/acartia_tonsa.html#records",
+    "title": "Acartia tonsa",
+    "section": "Records",
+    "text": "Records\n\nNo collection records yet. Add rows to data/observations.csv.",
+    "crumbs": [
+      "Calanoid copepods",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>*Acartia tonsa*</span>"
+    ]
+  },
+  {
+    "objectID": "species/acartia_tonsa.html#notes",
+    "href": "species/acartia_tonsa.html#notes",
+    "title": "Acartia tonsa",
+    "section": "Notes",
+    "text": "Notes",
+    "crumbs": [
+      "Calanoid copepods",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>*Acartia tonsa*</span>"
+    ]
+  },
+  {
+    "objectID": "species/epischura_nordenskioldi.html",
+    "href": "species/epischura_nordenskioldi.html",
+    "title": "Epischura nordenskiöldi",
+    "section": "",
+    "text": "Diagnosis\nThe female urosome is relatively straight, lacking the torsion seen in other species of Epischura (Figure 7.1). The fifth legs of both sexes separate it from E. massachusettsensis (Figure 7.2, Figure 7.3; see also Epischura species).",
+    "crumbs": [
+      "Calanoid copepods",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>*Epischura nordenskiöldi*</span>"
+    ]
+  },
+  {
+    "objectID": "species/epischura_nordenskioldi.html#morphology",
+    "href": "species/epischura_nordenskioldi.html#morphology",
+    "title": "Epischura nordenskiöldi",
+    "section": "Morphology",
+    "text": "Morphology\n\n\n\n\n\n\nFigure 7.1: Adult female. Note the relatively straight urosome, lacking the distinctive torsion present in other species of Epischura.\n\n\n\n\n\n\n\n\n\nFigure 7.2: Adult female P5. The terminal segment bears six spines: one inner, three apical, and two outer. The outer spines are placed in the distal half of the segment, unlike in E. massachusettsensis, where spines are distributed along the entire length of the final segment.\n\n\n\n\n\n\n\n\n\nFigure 7.3: Adult male P5. The terminal segment of the left leg is blunt and rounded, with four spines distributed along the distal half. The process on the inner surface of the first segment is prominent, with a slight curve. Its length is substantially more than the width of the segment, distinguishing it from the short digitiform process found in E. massachusettsensis males.",
+    "crumbs": [
+      "Calanoid copepods",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>*Epischura nordenskiöldi*</span>"
+    ]
+  },
+  {
+    "objectID": "species/epischura_nordenskioldi.html#records",
+    "href": "species/epischura_nordenskioldi.html#records",
+    "title": "Epischura nordenskiöldi",
+    "section": "Records",
+    "text": "Records\n\n\n\n\n\n\n\n\n\n\n\n\nSite\nState\nCoordinates\nDate\nTemp. (°C)\nStages\n\n\n\n\nSilver Lake (Wilmington)\nMA\n42.5640, -71.1881\n07 Oct 2025\n21\nadult female; adult male\n\n\n\n\n\n\n\n\n\nSites where this species has been collected (red) among all sampled sites (grey).",
+    "crumbs": [
+      "Calanoid copepods",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>*Epischura nordenskiöldi*</span>"
+    ]
+  },
+  {
+    "objectID": "species/epischura_nordenskioldi.html#notes",
+    "href": "species/epischura_nordenskioldi.html#notes",
+    "title": "Epischura nordenskiöldi",
+    "section": "Notes",
+    "text": "Notes\nSchacht (1898) notes variation in the number of spines on the terminal segment of the female P5. The specimen in Figure 7.2 has six spines, but five are also observed.\n\n\n\n\nde Guerne, Jules, and Jules Richard. 1889. “Révision Des Calanides d’eau Douce.” Mémoires de La Société Zoologique de France 2: 53–181.\n\n\nHerrick, Clarence L., and C. H. Turner. 1895. Synopsis of the Entomostraca of Minnesota. Geological and Natural History Survey of Minnesota, Zoological Series 2.\n\n\nSchacht, Frank W. 1898. “The North American Centropagidae Belonging to the Genera Osphranticum, Limnocalanus, and Epischura.” Bulletin of the Illinois State Laboratory of Natural History 5: 225–70.",
+    "crumbs": [
+      "Calanoid copepods",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>*Epischura nordenskiöldi*</span>"
+    ]
+  },
+  {
+    "objectID": "parts/cyclopoida.html",
+    "href": "parts/cyclopoida.html",
+    "title": "Cyclopoid copepods",
+    "section": "",
+    "text": "Species of Cyclopoida recorded from New England. Species with a full account are linked; the list is generated from data/species.csv.\n\n\nFreshwater\n\nDiacyclops navus (Cyclopidae)\n\n\n\nMarine\n\nCorycaeus elongatus (Corycaeidae) — no account yet\nCorycaeus ovalis (Corycaeidae) — no account yet\nCorycaeus speciosus (Corycaeidae) — no account yet\nCorycaeus venustus (Corycaeidae) — no account yet\nOithona atlantica (Oithonidae) — no account yet\nOithona colcarva (Oithonidae) — no account yet\nOithona plumifera (Oithonidae) — no account yet\nOithona similis (Oithonidae) — no account yet\nOithona spinirostris (Oithonidae) — no account yet\nOncaea venusta (Oncaeidae) — no account yet\nSapphirina auronitens (Sapphirinidae) — no account yet",
+    "crumbs": [
+      "Cyclopoid copepods"
+    ]
+  },
+  {
+    "objectID": "species/diacyclops_navus.html",
+    "href": "species/diacyclops_navus.html",
+    "title": "Diacyclops navus",
+    "section": "",
+    "text": "Diagnosis",
+    "crumbs": [
+      "Cyclopoid copepods",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>*Diacyclops navus*</span>"
+    ]
+  },
+  {
+    "objectID": "species/diacyclops_navus.html#morphology",
+    "href": "species/diacyclops_navus.html#morphology",
+    "title": "Diacyclops navus",
+    "section": "Morphology",
+    "text": "Morphology",
+    "crumbs": [
+      "Cyclopoid copepods",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>*Diacyclops navus*</span>"
+    ]
+  },
+  {
+    "objectID": "species/diacyclops_navus.html#records",
+    "href": "species/diacyclops_navus.html#records",
+    "title": "Diacyclops navus",
+    "section": "Records",
+    "text": "Records\n\nNo collection records yet. Add rows to data/observations.csv.",
+    "crumbs": [
+      "Cyclopoid copepods",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>*Diacyclops navus*</span>"
+    ]
+  },
+  {
+    "objectID": "species/diacyclops_navus.html#notes",
+    "href": "species/diacyclops_navus.html#notes",
+    "title": "Diacyclops navus",
+    "section": "Notes",
+    "text": "Notes",
+    "crumbs": [
+      "Cyclopoid copepods",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>*Diacyclops navus*</span>"
+    ]
+  },
+  {
+    "objectID": "parts/comparisons.html",
+    "href": "parts/comparisons.html",
+    "title": "Common comparisons",
+    "section": "",
+    "text": "Side-by-side guides for species (and genera) that are easy to confuse. To add one, copy comparisons/_template.qmd to a new file in comparisons/ (any name not starting with _); it is added to the book automatically.",
+    "crumbs": [
+      "Common comparisons"
+    ]
+  },
+  {
+    "objectID": "comparisons/epischura.html",
+    "href": "comparisons/epischura.html",
+    "title": "Epischura species",
+    "section": "",
+    "text": "Key differences",
+    "crumbs": [
+      "Common comparisons",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>*Epischura* species</span>"
+    ]
+  },
+  {
+    "objectID": "comparisons/epischura.html#key-differences",
+    "href": "comparisons/epischura.html#key-differences",
+    "title": "Epischura species",
+    "section": "",
+    "text": "Table 9.1: Characters separating the two New England Epischura species.\n\n\n\n\n\nCharacter\nEpischura nordenskiöldi\nEpischura massachusettsensis\n\n\n\n\nFemale urosome\nRelatively straight, without torsion\nTo confirm (torsion is present in other Epischura)\n\n\nFemale P5, outer spines of terminal segment\nRestricted to the distal half\nDistributed along the entire segment\n\n\nMale P5, process on inner surface of first segment\nLong (much longer than segment width), slightly curved\nShort and digitiform",
+    "crumbs": [
+      "Common comparisons",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>*Epischura* species</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "de Guerne, Jules, and Jules Richard. 1889.\n“Révision Des Calanides d’eau Douce.”\nMémoires de La Société\nZoologique de France 2: 53–181.\n\n\nHerrick, Clarence L., and C. H. Turner. 1895. Synopsis of the\nEntomostraca of Minnesota. Geological and Natural History Survey of\nMinnesota, Zoological Series 2.\n\n\nSchacht, Frank W. 1898. “The North American\nCentropagidae Belonging to the Genera\nOsphranticum, Limnocalanus, and\nEpischura.” Bulletin of the Illinois State\nLaboratory of Natural History 5: 225–70.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "appendices/sites.html",
+    "href": "appendices/sites.html",
+    "title": "Appendix A — Sampling sites",
+    "section": "",
+    "text": "Sites from data/sites.csv. Point size shows the number of collection records.\n\n\n\n\n\nSampling sites in New England.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSite\nState\nWaterbody\nLatitude\nLongitude\nRecords\n\n\n\n\nSilver Lake (Wilmington)\nMA\nlake\n42.564\n-71.1881\n1",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Sampling sites</span>"
+    ]
+  },
+  {
+    "objectID": "appendices/glossary.html",
+    "href": "appendices/glossary.html",
+    "title": "Appendix B — Glossary",
+    "section": "",
+    "text": "Antennule (A1)\n\nThe first, often long, pair of head appendages.\n\nP5\n\nThe fifth leg; often sexually dimorphic and important in identification.\n\nProsome / urosome\n\nThe anterior and posterior divisions of the body, separated by the major articulation.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Glossary</span>"
+    ]
+  }
+]
