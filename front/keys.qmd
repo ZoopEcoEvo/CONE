@@ -1,0 +1,14 @@
+# Identification keys {#sec-keys}
+
+::: {.callout-warning}
+**Draft.** The key to orders below is a starting outline only; check it
+before use and extend it with keys to genera and species within each order.
+:::
+
+## Key to orders of free-living adult copepods
+
+1.  Major body articulation behind the fifth pedigerous somite (between it and the genital somite); antennules long, usually 23–25 segments → **Calanoida** ([see part](../parts/calanoida.qmd))\
+    Major body articulation between the fourth and fifth pedigerous somites → 2
+
+2.  Prosome clearly wider than the urosome; antennules of moderate length → **Cyclopoida** ([see part](../parts/cyclopoida.qmd))\
+    Body more or less cylindrical, prosome and urosome of similar width; antennules short → **Harpacticoida**

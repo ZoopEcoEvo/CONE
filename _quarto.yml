@@ -1,0 +1,66 @@
+project:
+  type: book
+  output-dir: _book
+  # Before every render: create stubs for new species, rebuild the chapter
+  # list below, and check the data (see scripts/build.R).
+  pre-render: scripts/build.R
+
+book:
+  title: "The Copepod Fauna of New England"
+  author: "Matthew Sasaki"
+  date: last-modified
+  # cover-image: cover.png
+  repo-url: https://github.com/ZoopEcoEvo/CONE
+  site-url: https://zoopecoevo.github.io/CONE/
+  repo-actions: [edit, issue]
+  downloads: [pdf]
+  search: true
+  chapters:
+    - index.qmd
+    - front/how_to_use.qmd
+    - front/collecting.qmd
+    - front/morphology.qmd
+    - front/keys.qmd
+    - front/checklist.qmd
+    # >>> BEGIN GENERATED CHAPTERS (written by scripts/build.R; edits here are overwritten)
+    - part: parts/calanoida.qmd
+      chapters:
+        - species/acartia_tonsa.qmd
+        - species/epischura_nordenskioldi.qmd
+    - part: parts/cyclopoida.qmd
+      chapters:
+        - species/diacyclops_navus.qmd
+    - part: parts/comparisons.qmd
+      chapters:
+        - comparisons/epischura.qmd
+    # <<< END GENERATED CHAPTERS
+    - references.qmd
+  appendices:
+    - appendices/sites.qmd
+    - appendices/glossary.qmd
+
+bibliography: references.bib
+
+execute:
+  echo: false
+  warning: false
+  message: false
+  # No `freeze`: pages read data/*.csv, and frozen pages would not notice
+  # when the data change.
+
+format:
+  html:
+    theme: simplex
+    number-sections: false
+    toc: true
+  pdf:
+    documentclass: scrreprt
+    pdf-engine: xelatex
+    # numbered chapters so cross-references read "Chapter 7" in print
+    number-sections: true
+    number-depth: 1
+    toc: true
+    fig-pos: "H"
+    keep-tex: false
+
+editor: visual

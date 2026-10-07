@@ -1,0 +1,57 @@
+# *Epischura nordenskiöldi* {#sec-epischura-nordenskioldi}
+
+```{r}
+#| include: false
+source(here::here("R", "common.R"))
+sp <- species_info("epischura_nordenskioldi")
+```
+
+```{r}
+#| output: asis
+species_header(sp)
+```
+
+## Diagnosis
+
+The female urosome is relatively straight, lacking the torsion seen in other
+species of *Epischura* (@fig-epischura-nordenskioldi-female). The fifth legs
+of both sexes separate it from *E. massachusettsensis*
+(@fig-epischura-nordenskioldi-female-p5, @fig-epischura-nordenskioldi-male-p5;
+see also @sec-compare-epischura).
+
+## Morphology
+
+![Adult female. Note the relatively straight urosome, lacking the distinctive torsion present in other species of *Epischura*.](../images/epischura_nordenskioldi/female.jpeg){#fig-epischura-nordenskioldi-female}
+
+![Adult female P5. The terminal segment bears six spines: one inner, three apical, and two outer. The outer spines are placed in the distal half of the segment, unlike in *E. massachusettsensis*, where spines are distributed along the entire length of the final segment.](../images/epischura_nordenskioldi/female_p5.jpeg){#fig-epischura-nordenskioldi-female-p5}
+
+![Adult male P5. The terminal segment of the left leg is blunt and rounded, with four spines distributed along the distal half. The process on the inner surface of the first segment is prominent, with a slight curve. Its length is substantially more than the width of the segment, distinguishing it from the short digitiform process found in *E. massachusettsensis* males.](../images/epischura_nordenskioldi/male_p5.jpeg){#fig-epischura-nordenskioldi-male-p5}
+
+## Records
+
+```{r}
+#| output: asis
+species_records(sp)
+```
+
+```{r}
+#| fig-cap: "Sites where this species has been collected (red) among all sampled sites (grey)."
+#| fig-width: 4
+#| fig-height: 4.5
+#| out-width: "55%"
+species_map(sp)
+```
+
+```{r}
+#| fig-cap: "Collection records by month."
+#| fig-width: 5
+#| fig-height: 2.4
+#| out-width: "70%"
+species_season(sp)
+```
+
+## Notes
+
+@schacht1898 notes variation in the number of spines on the terminal segment
+of the female P5. The specimen in @fig-epischura-nordenskioldi-female-p5 has
+six spines, but five are also observed.

@@ -1,0 +1,22 @@
+# Copepod morphology {#sec-morphology}
+
+<!-- A labelled habitus of a calanoid, cyclopoid and harpacticoid, followed by
+     the structures used in the keys and accounts. -->
+
+## Body plan
+
+<!-- Prosome, urosome, the major articulation, pedigerous somites,
+     genital double-somite, caudal rami -->
+
+## Appendages
+
+<!-- Antennules (A1), antennae (A2), mouthparts, swimming legs P1–P4 -->
+
+## The fifth leg (P5)
+
+<!-- Terminology for segments, spines and setae on P5, with labelled figures,
+     since P5 is central to identifying many species -->
+
+## Sexes and life stages
+
+<!-- Distinguishing adult males, females and copepodids -->

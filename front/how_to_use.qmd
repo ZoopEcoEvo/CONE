@@ -1,0 +1,27 @@
+# How to use this book {#sec-how-to-use}
+
+```{r}
+#| include: false
+source(here::here("R", "common.R"))
+```
+
+This book describes the `r nrow(SPECIES)` copepod species currently listed for
+New England, `r sum(SPECIES$in_book)` of which have a full account so far.
+
+**Finding a species.** Start with the keys (@sec-keys) or the checklist
+(@sec-checklist). Species accounts are grouped by order, then by family.
+Groups of species that are easily confused have their own pages under
+*Common comparisons*.
+
+**Reading an account.** Each account opens with a summary box: authority,
+classification, habitat, the original description and other key literature,
+and links to external resources such as WoRMS. It then gives a diagnosis,
+illustrated morphology, collection records (with a map), and notes.
+Accounts marked *draft* or *placeholder* are still being written.
+
+**Names.** Names follow the World Register of Marine Species (WoRMS). Where
+a name in common use is no longer accepted, the accepted name is given in the
+summary box.
+
+**Terminology.** Morphological terms are explained in @sec-morphology and the
+glossary.

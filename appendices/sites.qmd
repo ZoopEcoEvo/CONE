@@ -1,0 +1,21 @@
+# Sampling sites {#sec-sites}
+
+```{r}
+#| include: false
+source(here::here("R", "common.R"))
+```
+
+Sites from `data/sites.csv`. Point size shows the number of collection records.
+
+```{r}
+#| fig-cap: "Sampling sites in New England."
+#| fig-width: 5
+#| fig-height: 5.5
+#| out-width: "60%"
+sites_map()
+```
+
+```{r}
+#| output: asis
+sites_table()
+```

@@ -1,0 +1,56 @@
+# *{{NAME}}* {#{{SEC_ID}}}
+
+```{r}
+#| include: false
+source(here::here("R", "common.R"))
+sp <- species_info("{{SLUG}}")
+```
+
+```{r}
+#| output: asis
+species_header(sp)
+```
+
+<!-- The box above is generated from data/species.csv (names, authority,
+     classification, sources, links). Edit the CSV, not this page, to change it. -->
+
+## Diagnosis
+
+<!-- The features that identify this species, and how to tell it from
+     look-alikes. Refer to other accounts with @sec-genus-species
+     and to figures with @fig-... -->
+
+## Morphology
+
+<!-- Put images in images/{{SLUG}}/ and add them like this:
+
+![Adult female P5. Caption pointing out the diagnostic features.](../images/{{SLUG}}/female_p5.jpg){#fig-{{SLUG_DASH}}-female-p5}
+
+-->
+
+## Records
+
+```{r}
+#| output: asis
+species_records(sp)
+```
+
+```{r}
+#| fig-cap: "Sites where this species has been collected (red) among all sampled sites (grey)."
+#| fig-width: 4
+#| fig-height: 4.5
+#| out-width: "55%"
+species_map(sp)
+```
+
+```{r}
+#| fig-cap: "Collection records by month."
+#| fig-width: 5
+#| fig-height: 2.4
+#| out-width: "70%"
+species_season(sp)
+```
+
+## Notes
+
+<!-- Ecology, seasonality, taxonomic remarks, variation, etc. -->

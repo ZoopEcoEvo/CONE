@@ -1,0 +1,25 @@
+# *Genus a* vs. *Genus b* {#sec-compare-short-name}
+
+```{r}
+#| include: false
+source(here::here("R", "common.R"))
+```
+
+```{r}
+#| output: asis
+compare_species(c("genus_species", "genus_species2"))
+```
+
+## Key differences
+
+<!-- One subsection per character (P5, urosome, rostrum, size, ...),
+     each with figures side by side:
+
+::: {layout-ncol=2}
+![*Species a*, female P5](../images/genus_species/female_p5.jpg){#fig-cmp-a-p5}
+
+![*Species b*, female P5](../images/genus_species2/female_p5.jpg){#fig-cmp-b-p5}
+:::
+-->
+
+## Where and when they co-occur

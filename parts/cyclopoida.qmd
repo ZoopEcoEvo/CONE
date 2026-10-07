@@ -1,0 +1,17 @@
+# Cyclopoid copepods {#sec-part-cyclopoida}
+
+```{r}
+#| include: false
+source(here::here("R", "common.R"))
+```
+
+<!-- A short introduction to the order: general body form, how to recognise
+     it, and what to expect in New England waters. -->
+
+Species of Cyclopoida recorded from New England. Species with a full account
+are linked; the list is generated from `data/species.csv`.
+
+```{r}
+#| output: asis
+part_species_list("Cyclopoida")
+```

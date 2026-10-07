@@ -1,0 +1,14 @@
+# Collecting and preserving copepods {#sec-collecting}
+
+## Sampling
+
+<!-- Nets, mesh sizes, tows vs. pumps, freshwater vs. coastal sampling -->
+
+## Sorting and preservation
+
+<!-- Fixatives, ethanol vs. formalin, storage -->
+
+## Dissection and imaging
+
+<!-- Dissecting P5 and other appendages, mounting media, microscope and camera
+     settings used for the images in this book -->

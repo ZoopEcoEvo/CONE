@@ -1,0 +1,14 @@
+# Checklist of species {#sec-checklist}
+
+```{r}
+#| include: false
+source(here::here("R", "common.R"))
+```
+
+All `r nrow(SPECIES)` species currently listed for New England, generated from
+`data/species.csv`. Species with an account in this book are linked.
+"Records" is the number of collection records in `data/observations.csv`.
+
+```{r}
+checklist_table()
+```

@@ -1,0 +1,5 @@
+# Common comparisons {#sec-part-comparisons}
+
+Side-by-side guides for species (and genera) that are easy to confuse.
+To add one, copy `comparisons/_template.qmd` to a new file in `comparisons/`
+(any name not starting with `_`); it is added to the book automatically.
