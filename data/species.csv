@@ -28,6 +28,7 @@ eurytemora_americana,Eurytemora,americana,,,Calanoida,Temoridae,marine,,,,,,turn
 eurytemora_herdmani,Eurytemora,herdmani,,,Calanoida,Temoridae,marine,,,,,,,,,FALSE,,
 labidocera_aestiva,Labidocera,aestiva,,,Calanoida,Pontellidae,marine,,,,,,turner1981,,,FALSE,,
 leptodiaptomus_minutus,Leptodiaptomus,minutus,,,Calanoida,Diaptomidae,freshwater,,,,,,,,,FALSE,,
+leptodiaptomus_siciloides,Leptodiaptomus,siciloides,,,Calanoida,Diaptomidae,freshwater,,,,,,,,,True,stub,
 mecynocera_clausi,Mecynocera,clausi,,,Calanoida,Mecynoceridae,marine,,,,,,turner1981,,,FALSE,,Spelled 'Mecyonera' in the original spreadsheet
 metridia_longa,Metridia,longa,,,Calanoida,Metridinidae,marine,,,,,,turner1981,,,FALSE,,
 metridia_lucens,Metridia,lucens,,,Calanoida,Metridinidae,marine,,,,,,,,,FALSE,,
@@ -38,6 +39,7 @@ oithona_plumifera,Oithona,plumifera,,,Cyclopoida,Oithonidae,marine,,,,,,turner19
 oithona_similis,Oithona,similis,,,Cyclopoida,Oithonidae,marine,,,,,,,,,FALSE,,
 oithona_spinirostris,Oithona,spinirostris,,,Cyclopoida,Oithonidae,marine,,,,,,turner1981,,,FALSE,,
 oncaea_venusta,Oncaea,venusta,,,Cyclopoida,Oncaeidae,marine,,,,,,turner1981,,,FALSE,,
+onychodiaptomus_birgei,Onychodiaptomus,birgei,,,Calanoida,Diaptomidae,freshwater,,,,,,,,,TRUE,stub,
 osphranticum_labronectum,Osphranticum,labronectum,,Forbes 1882,Calanoida,Centropagidae,freshwater,,,,,,,,,TRUE,stub,
 paracalanus_parvus,Paracalanus,parvus,,,Calanoida,Paracalanidae,marine,,,,,,,,,FALSE,,
 parvocalanus_crassirostris,Parvocalanus,crassirostris,,,Calanoida,Paracalanidae,marine,,,,,,turner1981,,,FALSE,,
