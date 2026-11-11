@@ -26,6 +26,9 @@ book:
     - part: parts/calanoida.qmd
       chapters:
         - species/acartia_tonsa.qmd
+        - species/osphranticum_labronectum.qmd
+        - species/leptodiaptomus_siciloides.qmd
+        - species/onychodiaptomus_birgei.qmd
         - species/epischura_nordenskioldi.qmd
     - part: parts/cyclopoida.qmd
       chapters:

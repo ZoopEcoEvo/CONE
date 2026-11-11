@@ -2,35 +2,28 @@
 
 Repository: <https://github.com/ZoopEcoEvo/CONE>. Published book: <https://zoopecoevo.github.io/CONE/>
 
-A Quarto book (HTML + PDF) built with R. Facts live in data files; the `.qmd`
-pages hold the writing; R fills in the rest.
+A Quarto book (HTML + PDF) built with R. Facts live in data files; the `.qmd` pages hold the writing; R fills in the rest.
 
 ## Building
 
-```r
+``` r
 # one-time setup
 install.packages(c("quarto", "here", "dplyr", "readr", "ggplot2", "knitr",
                    "DT", "maps", "worrms"))
 ```
 
-Then **Render Book** in RStudio, or `quarto render` in a terminal. Before each
-render, `scripts/build.R` runs automatically: it creates stub pages for new
-species, regenerates the chapter list in `_quarto.yml`, and checks the data
-(missing images, unknown citation keys, observations for unknown species or
-sites, malformed dates…). If a check fails, the render stops and says why.
+Then **Render Book** in RStudio, or `quarto render` in a terminal. Before each render, `scripts/build.R` runs automatically: it creates stub pages for new species, regenerates the chapter list in `_quarto.yml`, and checks the data (missing images, unknown citation keys, observations for unknown species or sites, malformed dates…). If a check fails, the render stops and says why.
 
 The PDF uses XeLaTeX (`quarto install tinytex` if you have no LaTeX).
 
 ## Publishing
 
-Pushing to `main` rebuilds the book on GitHub and publishes it to GitHub Pages
-(`.github/workflows/publish.yml`). For the one-time setup, see
-[GITHUB_SETUP.md](GITHUB_SETUP.md).
+Pushing to `main` rebuilds the book on GitHub and publishes it to GitHub Pages (`.github/workflows/publish.yml`). For the one-time setup, see [GITHUB_SETUP.md](GITHUB_SETUP.md).
 
 ## Everyday tasks
 
 | To… | Do this |
-|---|---|
+|----|----|
 | **Start a species account** | `Rscript scripts/new_species.R "Temora longicornis"` (or set `in_book` to `TRUE` in `data/species.csv` and render). A stub appears in `species/` and in the right part of the book. |
 | Add a species not yet listed | `Rscript scripts/new_species.R "Genus species" Order Family "habitat"` |
 | Add a collection record | Add a row to `data/observations.csv` (and the site to `data/sites.csv` if new). Tables, maps and counts update everywhere. |
@@ -42,7 +35,7 @@ Pushing to `main` rebuilds the book on GitHub and publishes it to GitHub Pages
 
 ## Layout
 
-```
+```         
 _quarto.yml          book config; the chapter block between the
                      ">>> BEGIN/<<< END GENERATED" markers is rewritten by scripts/build.R
 index.qmd            preface
@@ -66,7 +59,7 @@ Files starting with `_` are templates and are never rendered.
 **`data/species.csv`**: one row per taxon known from the region.
 
 | column | meaning |
-|---|---|
+|----|----|
 | `slug` | `genus_species` in lower case; also the page file name |
 | `genus`, `species` | the name as used in the book |
 | `display_name` | optional; overrides the displayed name (e.g. *Epischura nordenskiöldi*) |
@@ -81,10 +74,6 @@ Files starting with `_` are templates and are never rendered.
 | `status` | `stub`, `draft` or `complete`; stubs and drafts get a banner |
 | `notes` | anything else (not shown in the book) |
 
-**`data/sites.csv`**: `site_id` (short unique id), `site_name`, `lat`, `lon`
-(decimal degrees), `state`, `waterbody` (lake, pond, river, estuary, coastal,
-offshore…), `notes`.
+**`data/sites.csv`**: `site_id` (short unique id), `site_name`, `lat`, `lon` (decimal degrees), `state`, `waterbody` (lake, pond, river, estuary, coastal, offshore…), `notes`.
 
-**`data/observations.csv`**: one row per species per sampling event:
-`slug`, `site_id`, `date` (YYYY-MM-DD), `temp_c`, `salinity`, `depth_m`,
-`life_stages`, `collector`, `notes`.
+**`data/observations.csv`**: one row per species per sampling event: `slug`, `site_id`, `date` (YYYY-MM-DD), `temp_c`, `salinity`, `depth_m`, `life_stages`, `collector`, `notes`.
